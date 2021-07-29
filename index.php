@@ -3,3 +3,5 @@
 echo "hello";
 
 ?>
+
+<Doc></Doc>
